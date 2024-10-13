@@ -57,6 +57,8 @@ Ce diagramme en camembert montre la répartition des inventeursactifs par année
 ![image](https://github.com/user-attachments/assets/2b63b214-52ac-4b3c-ab0d-09d984dc1795)"
 ![image](https://github.com/user-attachments/assets/d4a222e5-b4c9-4ef2-ba93-05d3ee33ded4)
 
+# FIN , Mercii ❤️❤️
+
 
 
 
