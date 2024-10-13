@@ -54,7 +54,9 @@ fonctionnalité est particulièrement utile pour explorer les données de maniè
 ![image](https://github.com/user-attachments/assets/8928835e-d09e-4efa-9810-1e1dce995bfa)
 
 Ce diagramme en camembert montre la répartition des inventeursactifs par année de publication depuis 2014. Il permet de visualiser la tendance des publications et d'identifier les périodes de forte activité dans le domaine des drones.
-<img align="left"  src="![image](https://github.com/user-attachments/assets/2b63b214-52ac-4b3c-ab0d-09d984dc1795)">
+![image](https://github.com/user-attachments/assets/2b63b214-52ac-4b3c-ab0d-09d984dc1795)"
+![image](https://github.com/user-attachments/assets/d4a222e5-b4c9-4ef2-ba93-05d3ee33ded4)
+
 
 
 
