@@ -12,3 +12,24 @@ Ce projet vise à créer un site web dédié aux brevets de drones, en intégran
 # Architecture de Projet 
 ![image](https://github.com/user-attachments/assets/44e26604-323a-492f-aac9-6042cc15e42e)
 
+## Collection de Données : 
+Pour ce projet, plusieurs sources de données ont été identifiées comme pertinentes pour collecter des informations sur les brevets de drones. Les principales sources incluent Google Patent, PatentScoop, WIPO,
+PubMed, et d'autres bases de données spécialisées dans les brevets.
+Un processus de web scraping a été mis en place pour extraire les données des sites web des différentes sources. Des scripts ont été développés pour automatiser la collecte des informations telles que les titres des brevets, les inventeurs, les dates de dépôt, les résumés, et d'autres données pertinentes.
+
+## Stockage de Données : 
+Les données extraites via le web scraping ont été stockées dans une base de données MongoDB. Ce choix a été fait pour sa flexibilité et sa capacité à gérer des données non structurées, typiques des informations sur les brevets.
+
+## Analyse des Données : 
+
+### Nettoyage de données : 
+Avant d'analyser les données, un processus de nettoyage a été effectué pour éliminer les doublons, les données manquantes et les erreurs potentielles. Cela a permis d'assurer la qualité des données avant de les utiliser pour les analyses ultérieures.
+
+### Utilisation de Spark : 
+Les données nettoyées ont été analysées en utilisant Apache Spark, un framework de traitement de données distribué. Spark a permis d'effectuer des analyses en parallèle sur de grands ensembles de données, facilitant l'extraction d'informations pertinentes sur les tendances des brevets de drones.
+
+## Visualisation des Données : 
+Les résultats de l'analyse des données ont été intégrés avec PowerBI, un outil de visualisation de données interactif. Cela a permis de créer des tableaux de bord dynamiques et des graphiques visuels pour présenter les informations sur les brevets de drones de manière claire et compréhensible.Ce processus méthodologique détaillé a permis de collecter, traiter, analyser et visualiser les données sur les brevets de drones de manière efficace, en utilisant des outils et des techniques adaptés pour chaque étape du projet.
+
+
+
