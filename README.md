@@ -31,5 +31,39 @@ Les données nettoyées ont été analysées en utilisant Apache Spark, un frame
 ## Visualisation des Données : 
 Les résultats de l'analyse des données ont été intégrés avec PowerBI, un outil de visualisation de données interactif. Cela a permis de créer des tableaux de bord dynamiques et des graphiques visuels pour présenter les informations sur les brevets de drones de manière claire et compréhensible.Ce processus méthodologique détaillé a permis de collecter, traiter, analyser et visualiser les données sur les brevets de drones de manière efficace, en utilisant des outils et des techniques adaptés pour chaque étape du projet.
 
+# Développement du site web avec Flask : 
+## Interface du site :
+L’utilisateur visite l’interface web de l’application.
+![image](https://github.com/user-attachments/assets/cb397ff9-0914-4dce-bbcd-e5393630f752)
+
+l’affichage du résultat du recherche.
+![image](https://github.com/user-attachments/assets/fa30b761-1fed-40da-9887-ce8a42e89cfb)
+
+Il peut meme choisir les brevets les plus recents ou les plus anciennes en cliquant sur sort by et choisir par exemple les plus recents : 
+![image](https://github.com/user-attachments/assets/f2fd6944-c320-484f-8442-2ac2b46509b9)
+
+Il peut afficher Top 10 keywords des recherches . 
+![image](https://github.com/user-attachments/assets/cec7ea72-6769-47a2-ade6-e0ca5fc79481)
+
+## Pour la partie de visualisation : 
+Ce graphique représente la fréquence des articles de brevets liésaux drones. La catégorie "Drone" est la plus fréquente, suivie par des termes spécifiques tels que "A kind of plant protection drone", "Drone station", etc. Cette visualisation aide à identifier les sujets les plus populaires et à comprendre les tendances dans les recherches et innovations liées aux drones
+![image](https://github.com/user-attachments/assets/567f4280-1dc5-4f5a-8bcd-1f7fd1c5ff9a)
+
+PowerBI propose une fonctionnalité de Q&A qui permet aux utilisateurs de poser des questions en langage naturel et d'obtenir des visualisations instantanées basées sur les données. Cette
+fonctionnalité est particulièrement utile pour explorer les données de manière intuitive et interactive.
+![image](https://github.com/user-attachments/assets/8928835e-d09e-4efa-9810-1e1dce995bfa)
+
+Ce diagramme en camembert montre la répartition des inventeursactifs par année de publication depuis 2014. Il permet de visualiser la tendance des publications et d'identifier les périodes de forte activité dans le domaine des drones.
+![image](https://github.com/user-attachments/assets/2fa35497-432f-42f0-953c-7e5764a05d5f) 
+![image](https://github.com/user-attachments/assets/dfca2fa5-3caa-473a-80b0-9b153d590cae)
+
+
+
+
+
+
+
+
+
 
 
